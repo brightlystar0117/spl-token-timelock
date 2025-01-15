@@ -192,6 +192,8 @@ cargo-build-bpf child: cargo +bpf build --target bpfel-unknown-unknown --release
 
 We should see all test cases passed,that's it!
 
+Please visit our whitepaper.
+
 ## License
 
 spl-token-timelock is licensed under the MIT License.
